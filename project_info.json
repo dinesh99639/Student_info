@@ -1,8 +1,8 @@
 {
-	"name": "Github Projects",
+	"name": "Student Information System",
 	"icon": "",
-	"desc": "This website is used to manage all social media at one place and list all github projects at one place.",
-	"tech": ["HTML", "CSS", "JavaScript", "jQuery", "BootStrap"],
+	"desc": "This website is used get overall information of the student in a particular college/school. This is mainly used in palcements time.",
+	"tech": ["HTML", "CSS", "JavaScript", "jQuery", "BootStrap", "PHP", "MySQL"],
 
 	"from": "",
 	"to": ""
