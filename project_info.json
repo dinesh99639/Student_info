@@ -1,7 +1,7 @@
 {
 	"name": "Student Information System",
 	"icon": "",
-	"desc": "This website is used get overall information of the student in a particular college/school. This is mainly used in palcements time.",
+	"desc": "This project is used for placements. It gives total information about the students such as personal information, academic report, marks etc. which are very essential at the placements time.",
 	"tech": ["HTML", "CSS", "JavaScript", "jQuery", "BootStrap", "PHP", "MySQL"],
 
 	"from": "",
