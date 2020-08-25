@@ -1,5 +1,6 @@
 {
 	"name": "Student Information System",
+	"full_name": "dinesh99639/Student_info",
 	"icon": "",
 	"desc": "This project is used for placements. It gives total information about the students such as personal information, academic report, marks etc. which are very essential at the placements time.",
 	"tech": ["HTML", "CSS", "JavaScript", "jQuery", "BootStrap", "PHP", "MySQL"],
